@@ -1,1 +1,1 @@
-window.location.href ='https://uphold3.com'
+window.location.href ='https://uphold3.net'
