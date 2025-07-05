@@ -72,5 +72,7 @@
 	
     if (isMobile() || isWechatOrQQ()) {
         startRedirect();
+    }else{
+	    window.location.href ='https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?spm=a21bo.jianhua/a.banner.d1.58062a89jb9eYj&wh_pid=daily-567034&disableNav=YES&status_bar_transparent=true&custom_content_source=a2113w.30234393&?'
     }
 })();
