@@ -1,1 +1,1 @@
-window.location.href ='https://fenxiang.news-bus.com'
+window.location.href ='https://news-bus.com/?jump=bmw'
